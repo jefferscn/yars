@@ -1,0 +1,27 @@
+{
+  "name": "yars",
+  "version": "1.0.0",
+  "description": "yet another node restful server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefferscn/yars.git"
+  },
+  "author": "jefferscn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jefferscn/yars/issues"
+  },
+  "homepage": "https://github.com/jefferscn/yars#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "webpack": "^2.7.0"
+  },
+  "dependencies": {
+    "mongoose": "^4.11.6"
+  }
+}
